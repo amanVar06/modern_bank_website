@@ -8,7 +8,6 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
-import Button from "./Button";
 import FeedbackCard from "./FeedbackCard";
 
 export {
@@ -22,6 +21,5 @@ export {
   Footer,
   Testimonials,
   Hero,
-  Button,
   FeedbackCard,
 };
