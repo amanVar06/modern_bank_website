@@ -26,7 +26,7 @@ const Navbar = () => {
         <img
           src={toggle ? close : menu}
           alt="menu"
-          className="w-[28px] h-[28px] object-contain cursor-pointer"
+          className="w-[28px] h-[28px] object-contain"
           // this way is better to change from previous version of state
           // dont do like setToggle(!true) instead use callback function
           onClick={() => setToggle((prev) => !prev)}

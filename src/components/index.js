@@ -9,7 +9,6 @@ import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import Button from "./Button";
-import GetStarted from "./GetStarted";
 import FeedbackCard from "./FeedbackCard";
 
 export {
@@ -24,6 +23,5 @@ export {
   Testimonials,
   Hero,
   Button,
-  GetStarted,
   FeedbackCard,
 };
